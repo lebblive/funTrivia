@@ -1,0 +1,593 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which German sportswear company's logo is the 'Formstripe'?",
+      "correct_answer": "Puma",
+      "incorrect_answers": [
+        "Nike",
+        "Adidas",
+        "Reebok"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the character Kirby originally going to be named?",
+      "correct_answer": "Popopo",
+      "incorrect_answers": [
+        "Dedede",
+        "Waddle Dee",
+        "Prince Puff"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What name represents the letter 'M' in the NATO phonetic alphabet?",
+      "correct_answer": "Mike",
+      "incorrect_answers": [
+        "Matthew",
+        "Mark",
+        "Max"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The humerus, paired radius, and ulna come together to form what joint?",
+      "correct_answer": "Elbow",
+      "incorrect_answers": [
+        "Knee",
+        "Sholder",
+        "Ankle"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What historical event was Tchaikovsky's 1812 Overture referencing?",
+      "correct_answer": "The Napoleonic Wars",
+      "incorrect_answers": [
+        "The American War of 1812",
+        "The Russian Revolution",
+        "The Charge of the Light Brigade (Crimean War)"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the largest non-continental island in the world?",
+      "correct_answer": "Greenland",
+      "incorrect_answers": [
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Soulja Boy's 'Crank That' won a Grammy for Best Rap Song in 2007.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these stars is the largest?",
+      "correct_answer": "UY Scuti",
+      "incorrect_answers": [
+        "VY Canis Majoris",
+        "Betelgeuse",
+        "RW Cephei"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of James Dean's character in the 1955 movie 'Rebel Without a Cause'?",
+      "correct_answer": "Jim Stark",
+      "incorrect_answers": [
+        "Ned Stark",
+        "Jim Kane",
+        "Frank Stark"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The M41 Walker Bulldog remains in service in some countries to this day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What snowy mob was added in Minecraft 1.10?",
+      "correct_answer": "Polar bears",
+      "incorrect_answers": [
+        "Eskimos",
+        "Penguins",
+        "Walking TNT"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the final game of the 'Zero Escape' series called?",
+      "correct_answer": "Zero Escape Zero Time Dilemma ",
+      "incorrect_answers": [
+        "Nine Hours, Nine Persons, Nine Doors ",
+        "Zero Escape Virtue's Last Reward",
+        "The Nonary Game: Sigma's Last Life"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who composed the soundtrack for the game VVVVVV?",
+      "correct_answer": "Magnus Palsson",
+      "incorrect_answers": [
+        "Terry Cavanagh",
+        "Danny Baranowsky",
+        "Joel Zimmerman"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",
+      "correct_answer": "Alesso",
+      "incorrect_answers": [
+        "Steve Angello",
+        "Sebastian Ingrosso",
+        "Axwell"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The F1 season of 1994 is remembered for what tragic event?",
+      "correct_answer": "Death of Ayrton Senna (San Marino)",
+      "incorrect_answers": [
+        "The Showdown (Australia)",
+        "Verstappen on Fire (Germany)",
+        "Schumacher's Ban (Britain)"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did the World Wide Web go online?",
+      "correct_answer": "December 20, 1990",
+      "incorrect_answers": [
+        "December 17, 1996",
+        "November 12, 1990",
+        "November 24, 1995"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are rhino's horn made of?",
+      "correct_answer": "Keratin",
+      "incorrect_answers": [
+        "Bone",
+        "Ivory",
+        "Skin"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The historical city Timbuktu is located in which West African country?",
+      "correct_answer": "Mali",
+      "incorrect_answers": [
+        "Senegal",
+        "Niger",
+        "Burkina Faso"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the FIRST Valve game to have VR?",
+      "correct_answer": "The Lab",
+      "incorrect_answers": [
+        "Dota 2",
+        "Destinations",
+        "Half-Life 2"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Swedish word for 'window'?",
+      "correct_answer": "F&ouml;nster",
+      "incorrect_answers": [
+        "H&aring;l",
+        "Sk&auml;rm",
+        "Ruta"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
+      "correct_answer": "Anti-mass spectrometer",
+      "incorrect_answers": [
+        "Oscillation generator",
+        "Dark fusion reactor",
+        "Dark fusion resonator"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The stop motion comedy show 'Robot Chicken' was created by which of the following?",
+      "correct_answer": "Seth Green",
+      "incorrect_answers": [
+        "Seth MacFarlane",
+        "Seth Rogen",
+        "Seth Rollins"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The main protagonist of the fourth part of JoJo's Bizarre Adventure is which of the following?",
+      "correct_answer": "Josuke Higashikata",
+      "incorrect_answers": [
+        "Yoshikage kira",
+        "Koichi Hirose",
+        "Joey JoJo"
+      ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which car brand does NOT belong to General Motors?",
+      "correct_answer": "Ford",
+      "incorrect_answers": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "correct_answer": "Green Arrow",
+      "incorrect_answers": [
+        "Superman",
+        "Batman",
+        "Steve Trevor"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who created the pump 'F.L.U.D.D.' Mario uses in Super Mario Sunshine?",
+      "correct_answer": "Elvin Gadd",
+      "incorrect_answers": [
+        "Robert Fludd",
+        "Nirona",
+        "Crygor"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In the game 'Subnautica', a 'Cave Crawler' will attack you.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Half-Life franchise, what is the real name of the 'gravity gun'?",
+      "correct_answer": "Zero-Point Energy Field Manipulator",
+      "incorrect_answers": [
+        "Universal Gravity Manipulation Device",
+        "Isaac Newton's Theory Disprover",
+        "Quantum Energy Displacement Modifier"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+      "correct_answer": "Francis, Bill, Zoey, and Louis",
+      "incorrect_answers": [
+        "Bender, Andrew, Allison, and Brian",
+        "Coach, Ellis, Nick, and Rochelle",
+        "Harry, Ron, Hermione and Dumbledore"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Hitman: Blood Money, what is the name of the target in the mission 'Death of a Showman'?",
+      "correct_answer": "Joseph Clarence",
+      "incorrect_answers": [
+        "The Swing King",
+        "Maynard John",
+        "Manuel Delgado"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his 'Mothership' set piece for one night only.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?",
+      "correct_answer": "Cicero",
+      "incorrect_answers": [
+        "Lucien Lachance",
+        "Archimedes",
+        "Astrid"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What city did the monster attack in the film, 'Cloverfield'?",
+      "correct_answer": "New York, New York",
+      "incorrect_answers": [
+        "Las Vegas, Nevada",
+        "Chicago, Illinois",
+        "Orlando, Florida"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 'The Amazing World of Gumball', who is the principal of Elmore Junior High?",
+      "correct_answer": "Principal Brown",
+      "incorrect_answers": [
+        "Principal Small",
+        "Principal Brawn",
+        "Principal Simeon"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Ellie Goulding's earliest album was named?",
+      "correct_answer": "Lights",
+      "incorrect_answers": [
+        "Halcyon",
+        "Bright Lights",
+        "Halcyon Days"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "correct_answer": "Motorola 68000",
+      "incorrect_answers": [
+        "Zilog Z80",
+        "Yamaha YM2612",
+        "Intel 8088"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the #1 selling game on Steam by revenue in 2016?",
+      "correct_answer": "Sid Meier's Civilization VI",
+      "incorrect_answers": [
+        "Grand Theft Auto V",
+        "Counter Strike: Global Offensive",
+        "Dark Souls III"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which year was Constantinople conquered by the Turks?",
+      "correct_answer": "1453",
+      "incorrect_answers": [
+        "1435",
+        "1454",
+        "1440"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sugar contains fat.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Broome is a town in which state of Australia?",
+      "correct_answer": "Western Australia",
+      "incorrect_answers": [
+        "Northern Territory",
+        "South Australia",
+        "Tasmania"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was Club Penguin launched?",
+      "correct_answer": "October 24, 2005",
+      "incorrect_answers": [
+        "October 21, 2005",
+        "March 29, 2006",
+        "November 22, 2004"
+      ]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the online streaming service 'Mixer' launch?",
+      "correct_answer": "2016",
+      "incorrect_answers": [
+        "2013",
+        "2009",
+        "2011"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is rapper Drake's real name?",
+      "correct_answer": "Aubrey Graham",
+      "incorrect_answers": [
+        "Shaun Carter",
+        "Dwayne Carter",
+        "Andre Young"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
+      "correct_answer": "Isla Sorna",
+      "incorrect_answers": [
+        "Isla Nublar",
+        "Isla Pena",
+        "Isla Muerta"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which planet did the 'Viking 1' spacecraft send surface images of, starting in 1976?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Saturn",
+        "Jupiter",
+        "Venus"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Lilo's last name from Lilo and Stitch?",
+      "correct_answer": "Pelekai",
+      "incorrect_answers": [
+        "Anoaʻi",
+        "Kealoha",
+        "Kuʻulei"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+      "correct_answer": "Auguste Picard",
+      "incorrect_answers": [
+        "Jacques Piccard",
+        "Will Morris",
+        "J. Cecil Maby"
+      ]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who designed the Chupa Chups logo?",
+      "correct_answer": "Salvador Dali",
+      "incorrect_answers": [
+        "Pablo Picasso",
+        "Andy Warhol",
+        "Vincent van Gogh"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country drives on the left side of the road?",
+      "correct_answer": "Japan",
+      "incorrect_answers": [
+        "Germany",
+        "Russia",
+        "China"
+      ]
+    }
+  ]
+}
